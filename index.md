@@ -13,3 +13,4 @@ This is Tara Sehdave's journey.
 # My friends and I
 <img src="images/friends.jpg" height="150px" width="200px"/>
 
+## About Me
