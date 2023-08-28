@@ -14,3 +14,4 @@ This is Tara Sehdave's journey.
 <img src="images/friends.jpg" height="150px" width="200px"/>
 
 ## About Me
+Hi, my name is Tara and I am a junior this year and taking AP CSP. I took this class mostly for the doors that it opens as I don't want to set my future in stone yet. I love hanging out with my friends and going to the beach. I play guitar and love listening to music, especially Queen and Lana Del Rey. My favorite food is anything Indian or Japanese and my favorite subject is history, specificaly world history.
