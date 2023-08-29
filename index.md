@@ -2,7 +2,7 @@
 
 ## Tara Sehdave
 
-<img src="images/drawing.jpg" height="180px" width="250px"/>
+<img src="images/drawing.jpg" height="250px" width="180px"/>
 
 ## Shay and I
 <img src="images/shay.png" height="200px" width="150px"/>
