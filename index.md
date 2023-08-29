@@ -1,9 +1,8 @@
-layout: default
-title: Student Blog
+### Student Blog
 
 ## Tara Sehdave
 
-<img src="drawing.jpg" height="180px" width="180"/>
+<img src="images/drawing.jpg" height="180px" width="180"/>
 
 # Shay and I
 <img src="images/shay.png" height="200px" width="150px"/>
