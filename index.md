@@ -5,7 +5,7 @@ title: Student Blog
 
 <code style= "color: #4e804f; font-size:36px"> Tara Sehdave
 
-<img src="images/drawing.jpg" height="750px" width="600px"/>
+<img src="images/drawing.jpg" height="250px" width="600px"/>
 
 ## Shay and I
 <img src="images/shay.png" height="750px" width="600px"/>
