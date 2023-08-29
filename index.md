@@ -4,8 +4,7 @@ title: Student Blog
 ---
 ## Tara Sehdave
 
-# My Drawing
-<img src="drawing.jpg" height="500px" width="250"/>
+<img src="drawing.jpg" height="180px" width="180"/>
 
 # Shay and I
 <img src="images/shay.png" height="200px" width="150px"/>
