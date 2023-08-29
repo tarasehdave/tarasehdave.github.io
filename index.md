@@ -1,13 +1,13 @@
-### Student Blog
+# Student Blog
 
 ## Tara Sehdave
 
 <img src="images/drawing.jpg" height="180px" width="180"/>
 
-# Shay and I
+## Shay and I
 <img src="images/shay.png" height="200px" width="150px"/>
 
-# My friends and I
+## My friends and I
 <img src="images/friends.jpg" height="150px" width="200px"/>
 
 ## About Me
