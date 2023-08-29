@@ -5,7 +5,10 @@ title: Student Blog
 
 
 ## Build you Home Page here 
-This is Tara Sehdave's journey. 
+This is Tara Sehdave's journey.
+
+# My Drawing
+<img src="drawing.jpg" height="500px" width="250"/>
 
 # Shay and I
 <img src="images/shay.png" height="200px" width="150px"/>
