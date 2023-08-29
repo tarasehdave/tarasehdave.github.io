@@ -1,4 +1,7 @@
-# Student Blog
+---
+layout: default
+title: Student Blog 
+---
 
 ## Tara Sehdave
 
