@@ -2,10 +2,7 @@
 layout: default
 title: Student Blog
 ---
-
-
-## Build you Home Page here 
-This is Tara Sehdave's journey.
+## Tara Sehdave
 
 # My Drawing
 <img src="drawing.jpg" height="500px" width="250"/>
