@@ -3,7 +3,7 @@ layout: default
 title: Student Blog 
 ---
 
-## Tara Sehdave
+<code style= "color: #4e804f; font-size:36px"> Tara Sehdave
 
 <img src="images/drawing.jpg" height="750px" width="600px"/>
 
