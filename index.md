@@ -11,7 +11,7 @@ title: Student Blog
 <img src="images/shay.png" height="750px" width="600px"/>
 
 ## My friends and I
-<img src="images/friends.jpg" height="600px" width="950px"/>
+<img src="images/friends.jpg" height="650px" width="950px"/>
 
 ## My friends and I 
 <img src="images/friends.jpg" height="600px" width="950px">
