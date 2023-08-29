@@ -17,3 +17,6 @@ Hi, my name is Tara and I am a junior this year, taking AP CSP. I am intersted i
 | ------ | ----- |
 |   1    | AP CSP |
 |   2    | AP EL |
+|   3    | AP CALC |
+|   4    | AP PHYS C. |
+|   5    | AP USH |
