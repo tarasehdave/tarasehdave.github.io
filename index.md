@@ -1,7 +1,6 @@
----
 layout: default
 title: Student Blog
----
+
 ## Tara Sehdave
 
 <img src="IMG_3920.jpg" height="180px" width="180"/>
