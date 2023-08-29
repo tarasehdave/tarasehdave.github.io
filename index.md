@@ -11,7 +11,7 @@ title: Student Blog
 <img src="images/shay.png" height="750px" width="600px"/>
 
 ## My friends and I
-<img src="images/friends.jpg" height="600px" width="750px"/>
+<img src="images/friends.jpg" height="600px" width="850px"/>
 
 ## About Me
 Hi, my name is Tara and I am a junior this year, taking AP CSP. I am intersted in this class since computer science is activeley becoming a more integrated part of society and it is important to stay updated. I love hanging out with my friends and going to the beach. I play guitar and love listening to music, especially Queen and Lana Del Rey. My favorite food is anything Indian or Japanese and my favorite subject is history, especially world history.
