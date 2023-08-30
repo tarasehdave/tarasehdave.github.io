@@ -1,11 +1,11 @@
 ---
-toc: true
+toc: false
 comments: false
 layout: post
-title: Daily Plan Sample
-description: Example Blog!!!  This shows planning and notes from hacks.
+title: Snake
+description: Become one with your tools. They could be more important than code, code, codeing. 
 type: plans
-courses: { compsci: {week: 0} }
+courses: { compsci: {week: 2} }
 ---
 
 ### PBL Unit 1 / Week 0
