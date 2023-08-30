@@ -6,6 +6,7 @@ title: Snake
 description: Become one with your tools. They could be more important than code, code, codeing. 
 type: plans
 courses: { compsci: {week: 2} }
+
 ---
 
 <style>
