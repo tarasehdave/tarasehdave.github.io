@@ -1,9 +1,0 @@
----
-comments: true
-layout: post
-title: test
-description: test
-type: hacks
-courses: { compsci: {week: 1} }
-categories: [C4.1]
----
