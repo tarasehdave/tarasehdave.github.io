@@ -3,7 +3,7 @@ toc: false
 comments: false
 layout: post
 title: Snake
-description: Become one with your tools. They could be more important than code, code, codeing. 
+description: Be a snake and eat to win.
 type: plans
 courses: { compsci: {week: 2} }
 
