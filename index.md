@@ -8,10 +8,10 @@ title: Student Blog
 <img src="images/drawing.jpg" height="750px" width="550px"/>
 
 ## Shay and I
-<img src="images/shay.png" height="650px" width="600px"/>
+<img src="images/shay.png" height="650px" width="500px"/>
 
 ## My friends and I 
-<img src="images/friends.jpg" height="400px" width="1050px"/>
+<img src="images/friends.jpg" height="400px" width="950px"/>
 
 
 ## About Me
