@@ -3,10 +3,10 @@ toc: false
 comments: false
 layout: post
 title: Snake
-description: play the snake game
+description: Be a snake and eat to win.
 type: plans
-courses: { csse: {week: 2}, csp: {week: 2, categories: [4.A]}, csa: {week: 2} }
-categories: [C1.4]
+courses: { compsci: {week: 2} }
+
 ---
 
 <style>
@@ -373,3 +373,5 @@ categories: [C1.4]
         }
     })();
 </script>
+
+
