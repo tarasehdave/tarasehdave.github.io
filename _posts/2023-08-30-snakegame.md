@@ -2,7 +2,7 @@
 toc: false
 comments: false
 layout: post
-title: Snake
+title: Snakex
 description: Be a snake and eat to win.
 type: plans
 courses: { compsci: {week: 2} }
