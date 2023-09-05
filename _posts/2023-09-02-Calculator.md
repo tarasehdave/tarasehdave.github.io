@@ -2,10 +2,10 @@
 toc: true
 comments: true
 layout: post
-title: Calculator
+title: Calculator X
 description: Become one with your tools.  They could be more important than code, code, coding.
 type: plans
-courses: { compsci: {week: 2}, csp: {week: 0, categories: [4.A]}, csa: {week: 0} }
+courses: { compsci: {week: 6}, csp: {week: 3, categories: [4.A]}, csa: {week: 0} }
 categories: [C1.4]
 ---
 ```python
