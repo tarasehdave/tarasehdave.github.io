@@ -1,12 +1,14 @@
 ---
+toc: true
 comments: true
 layout: post
 title: Calculator
-description: Add, subtract, mulitply, divide.
-courses: { csp: {week: 1} }
-categories: [C4.1]
+description: Become one with your tools.  They could be more important than code, code, coding.
+type: plans
+courses: { compsci: {week: 0}, csp: {week: 0, categories: [4.A]}, csa: {week: 0} }
+categories: [C1.4]
 ---
-
+```python
 # This function adds two numbers 
 def add (x, y):
     return x + y
@@ -63,3 +65,67 @@ while True:
             break
         else: 
             print ("Invalid Input")
+```
+
+    Select operation.
+    1.Add
+    2.Subtract
+    3.Multiply
+    4.Divide
+
+
+    Enter choice (1/2/3/4):  5
+    Enter choice (1/2/3/4):  7
+    Enter choice (1/2/3/4):  5
+    Enter choice (1/2/3/4):  1
+    Enter first number:  v
+
+
+    Invalid input. Please enter a number.
+
+
+    Enter choice (1/2/3/4):  6.8
+    Enter choice (1/2/3/4):  1.2
+    Enter choice (1/2/3/4):  1
+    Enter first number:  1.34
+    Enter second number: -0.00034
+
+
+    1.34 + -0.00034 = 1.33966
+
+
+    Let's do next calculation? (yes/no):  yes
+
+
+    Invalid Input
+
+
+    Enter choice (1/2/3/4):  4
+    Enter first number:  0
+    Enter second number: 345
+
+
+    0.0 / 345.0 = 0.0
+
+
+    Let's do next calculation? (yes/no):  yes
+
+
+    Invalid Input
+
+
+    Enter choice (1/2/3/4):  4
+    Enter first number:  45
+    Enter second number: 0
+
+
+    45.0 / 0.0 = Cannot divide by zero
+
+
+    Let's do next calculation? (yes/no):  no
+
+
+
+```python
+
+```
