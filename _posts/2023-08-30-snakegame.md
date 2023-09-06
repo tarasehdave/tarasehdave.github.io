@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Snake
 description: Be a snake and eat to win.
-type: plans
+type: hacks 
 courses: { csp: {week: 2} }
 
 ---
