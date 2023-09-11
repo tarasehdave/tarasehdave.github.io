@@ -22,17 +22,24 @@
 
         map.addListener("click", (mapsMouseEvent) => {
           var c = mapsMouseEvent.latLng.toJSON();
-          var url = 'https://maps.googleapis.com/maps/api/timezone/json?location=' + c.lat + '%2C' + c.lng + '&timestamp=1331161200&key=AIzaSyA3AB29vGsIItKjArcCpgPSc4LBhkT9CTY';
+          var loc = c.lat+','+c.lng
+          var targetDate = new Date()
+          var timestamp = targetDate.getTime()/1000 + targetDate.getTimezoneOffset() * 60
+          //var url = 'https://maps.googleapis.com/maps/api/timezone/json?location=' + c.lat + '%2C' + c.lng + '&timestamp=1331161200&key=AIzaSyA3AB29vGsIItKjArcCpgPSc4LBhkT9CTY';
+          var url = 'https://maps.googleapis.com/maps/api/timezone/json?location=' + loc + '&timestamp='+ timestamp + '&key=AIzaSyA3AB29vGsIItKjArcCpgPSc4LBhkT9CTY';
+          
           console.log(url);
 
           $.get(url, function(data, status){
-            debugger;
-            alert(data.timeZoneName);
+            //alert(data.timeZoneName);
+
+            
+            var offsets = data.dstOffset * 1000 + data.rawOffset * 1000
+            var localdate = new Date(timestamp * 1000 + offsets)
+
+            alert(localdate.toLocaleString() + ' at ' + data.timeZoneName);
+
           });
-
-
-          
-
         });
 
         
