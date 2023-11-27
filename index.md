@@ -21,8 +21,8 @@ Hi, my name is Tara and I am a junior this year, taking AP CSP. I am intersted i
 
 | Class       | Period 
 | ----------- |:-------|
-| AP CSP      |   1      |
-| AP EL        |   2      |
-| AP CALC      |   3      |
-| AP PHYS C.     |   4      |
-| AP USH   |   5      |
+| AP Physics C.      |   1      |
+| AP Computer Science Principles        |   2      |
+| AP Calculus AB      |   3      |
+| AP US History     |   4      |
+| AP English Language   |   5      |
