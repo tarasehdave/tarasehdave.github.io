@@ -134,9 +134,9 @@
         if (flippedCard) {
           // If another card is flipped, check for a match
           checkForMatch(this);
-        }
-
-        flippedCard = this;
+        }else{
+			flippedCard = this;
+		}
       }
     }
 
@@ -149,7 +149,8 @@
         flippedCard.classList.add('matched');
         card.classList.add('matched');
         matchedPairs++;
-
+	    flippedCard = null;
+		flippedCards.splice(0, flippedCards.length);
         if (matchedPairs === totalPairs) {
           alert('Congratulations! You matched all pairs.');
         }
